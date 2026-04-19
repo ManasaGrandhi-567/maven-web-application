@@ -13,7 +13,7 @@
 <h1 align="center">Phone Number: +91 9876532102</h1>
 <h1 align="center">Manasa Inventions is a Very Good  for Learning AWS DevOps, Jenkins, Docker, Kubernetes, GitOps, ArgoCD, Terraform and Amazon Web Services</h1>
 
-<h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>
+<h1 align="center">Trainer Name: Manasa </h1>
 
 <hr>
 <br>
